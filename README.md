@@ -2,6 +2,13 @@
 
 Series of programs (tools) to interact with the Overwatch files.
 
+## Saphirah fork: build 154504 support
+
+This fork adds Overwatch `2.25.0.1.154504` manifest support directly to DataTool.
+No compatibility launcher is required when running a build of this fork.
+See [build instructions, attribution, and verification](DataTool/BuildSupport/README.md).
+The upstream releases linked below do not include this fork's changes.
+
 ## Downloads & Help
 Downloads for the tools and updates are posted on GitHub releases and on our Discord where you can also find support and disccusion around using them.
 
